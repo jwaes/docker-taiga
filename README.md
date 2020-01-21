@@ -20,7 +20,7 @@ configuration and information about all the settings.
 
 ### Configuring taiga-front
 
-taiga-back can be configured using `/etc/opt/taiga-front/conf.json`. See
+taiga-front can be configured using `/etc/opt/taiga-front/conf.json`. See
 [conf.example.json](
 https://github.com/taigaio/taiga-front/blob/stable/conf/conf.example.json) for
 the default configuration.
